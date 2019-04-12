@@ -1,5 +1,5 @@
 # FullStackVue
-Practice Project of Vue.js and GraphQL
+Practice Project using Vue.js and GraphQL
 
 ## Project setup
 ```
